@@ -1,3 +1,3 @@
-# Pattern finding in matrices
-Code will genrate a random matrice , but you can use mat.txt as input  
+# Pattern Finding In Matrices
+Code will genrate a random Logical Matrice , but you can use mat.txt as input  
 
